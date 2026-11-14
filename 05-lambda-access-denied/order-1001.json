@@ -1,0 +1,7 @@
+{
+  "order_id": "ORDER-1001",
+  "customer": "Test Customer",
+  "status": "pending",
+  "total": 125.50,
+  "currency": "USD"
+}
