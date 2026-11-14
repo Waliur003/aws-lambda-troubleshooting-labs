@@ -1,0 +1,6 @@
+{
+  "Variables": {
+    "APP_ENV": "production",
+    "LOG_LEVEL": "INFO"
+  }
+}
